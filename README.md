@@ -41,6 +41,4 @@ A classic Minesweeper game implemented using Flutter and Dart, following clean a
    cd minesweeper
 
 ## Screenshots
-![Initial Game Screen](images/screenshot1.png)
-![Gameplay with Numbers](images/screenshot2.png)
-![Flagged Cell](images/screenshot3.png)
+![Gameplay with Numbers](images/screeny.png)
