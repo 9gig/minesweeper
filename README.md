@@ -39,3 +39,8 @@ A classic Minesweeper game implemented using Flutter and Dart, following clean a
    ```bash
    git clone https://github.com/your-username/minesweeper.git
    cd minesweeper
+
+## Screenshots
+![Initial Game Screen](images/screenshot1.png)
+![Gameplay with Numbers](images/screenshot2.png)
+![Flagged Cell](images/screenshot3.png)
